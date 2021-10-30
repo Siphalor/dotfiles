@@ -10,5 +10,6 @@
     ~/.vimrc: myvimrc/_vimrc
     ~/_vimrc: myvimrc/_vimrc
     ~/vimfiles/pack/siphalor: myvimpack
+    ~/.vim/pack/siphalor: myvimpack
 
 - shell: []
