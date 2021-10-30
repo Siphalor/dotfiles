@@ -2,3 +2,9 @@
 	path = dotbot
 	url = https://github.com/anishathalye/dotbot
 	ignore = dirty
+[submodule "myvimrc"]
+	path = myvimrc
+	url = https://gitea.siphalor.de/Siphalor/myvimrc
+[submodule "myvimpack"]
+	path = myvimpack
+	url = https://gitea.siphalor.de/Siphalor/myvimpack

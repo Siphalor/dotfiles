@@ -1,3 +1,14 @@
+- defaults:
+    link:
+        create: true
+        relink: true
+
 - clean: []
-- link: {}
+
+- link:
+    ~/.ideavimrc:
+    ~/.vimrc: myvimrc/_vimrc
+    ~/_vimrc: myvimrc/_vimrc
+    ~/vimfiles/pack/siphalor: myvimpack
+
 - shell: []
