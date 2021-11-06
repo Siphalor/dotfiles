@@ -7,6 +7,7 @@
 
 - link:
     ~/.ideavimrc:
+    ~/.tmux.conf: tmux.conf
     ~/.vimrc: myvimrc/_vimrc
     ~/_vimrc: myvimrc/_vimrc
     ~/vimfiles/pack/siphalor: myvimpack
