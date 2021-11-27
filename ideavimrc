@@ -1,1 +1,2 @@
+command! Terminal :action ActivateTerminalToolWindow
 command! FIGlet :action GenerateASCIIArtAction
