@@ -8,3 +8,4 @@
 [submodule "myvimpack"]
 	path = myvimpack
 	url = https://gitea.siphalor.de/Siphalor/myvimpack
+	ignore = untracked
