@@ -6,6 +6,7 @@
 - clean: []
 
 - link:
+    ~/.bash_aliases:
     ~/.ideavimrc:
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: myvimrc/_vimrc
