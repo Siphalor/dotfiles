@@ -1,2 +1,8 @@
 command! Terminal :action ActivateTerminalToolWindow
 command! FIGlet :action GenerateASCIIArtAction
+command! PestPreview :action Pest.Tools.LivePreview
+command! TrackActions :action VimFindActionIdAction
+
+set surround
+set idearefactormode=visual
+set highlightedyank
